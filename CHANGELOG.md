@@ -6,4 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.2] - 2020-07-18
+### Added
+- License
+- Changelog
+
+## [0.0.1] - 2020-07-18
+### Added
 - Initial release
