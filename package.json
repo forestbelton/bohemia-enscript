@@ -1,0 +1,25 @@
+{
+    "name": "bohemia-enscript",
+    "displayName": "EnScript",
+    "description": "Syntax Highlighting for Bohemia Interactive's Enforce Script",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "enscript",
+            "aliases": ["EnScript", "enscript"],
+            "extensions": [".c"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "enscript",
+            "scopeName": "source.enscript",
+            "path": "./syntaxes/enscript.tmLanguage.json"
+        }]
+    }
+}
