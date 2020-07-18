@@ -2,6 +2,11 @@
     "name": "bohemia-enscript",
     "displayName": "EnScript",
     "description": "Syntax Highlighting for Bohemia Interactive's Enforce Script",
+    "publisher": "forestbelton",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/forestbelton/bohemia-enscript"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.47.0"
